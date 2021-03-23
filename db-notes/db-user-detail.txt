@@ -1,0 +1,13 @@
+/*DB Account */
+DB Name: kumu_exam
+user: kumu_exam
+PW : kumuExam@123!
+
+/*User Account */
+user: exam
+email: kumu@exam.com
+pw: kumuexam123
+
+/**Notes*/
+Sorry, i didn't finish the exam due to my pc is freezing a couple of times and i need to format it, so i need to rush the exam. 
+Thank you.
